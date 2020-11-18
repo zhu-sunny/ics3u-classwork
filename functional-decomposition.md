@@ -29,7 +29,7 @@ You sell a bag of chips to buyer
 2. Make sure widest part of cookie is less than radius of glass
 - Measure widest part of cookie and buy a glass with a greater radius 
 - Measure radius of glass and buy smaller cookies 
-3. Allows user to determine size of glass or size of cookie based on their input 
+3. Tells user size of glass or size of cookie they need to buy based on their input 
 - User will input either the size of the cookie or radius of the glass
-- App will then generate a range of sizes for the cookie or radius of glass
+- App will then generate a range of sizes for the cookie or radius of glass they need to buy
 - If user has measurements of both app will tell if cookie will be able to fit 
