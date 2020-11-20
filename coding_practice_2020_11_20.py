@@ -1,6 +1,5 @@
 # 1. 
-print("What is your favorite color? ")
-color = input()
+color = input("What is your favorite color? ")
 print("Cool!" + color + " is my favorite color too!")
 print()
 
