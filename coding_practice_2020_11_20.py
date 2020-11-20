@@ -1,12 +1,12 @@
 # 1. 
 color = input("What is your favorite color? ")
-print("Cool!" + color + " is my favorite color too!")
+print(color + "?! No why, that's my favourite colour too!")
 print()
 
 # 2.
 cans = int(input("How many cans come in a pack? "))
 packs = int(input("How many packs are there? "))
-print("There are " + str(cans*packs) + " cans in total.")
+print("There are " + str(cans * packs) + " cans in total.")
 print()
 
 # 3.
