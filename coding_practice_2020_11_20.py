@@ -18,8 +18,8 @@ print()
 
 # 4. 
 answer = input("Do you just join a google meet and mute the teacher? ")
-if(answer == "yes"):
+if(answer == "yes" or "Yes"):
     print("That's probably not a good idea")
-elif(answer == "no"):
+elif(answer == "no" or "No"):
     print("Ok. Good.")
 
